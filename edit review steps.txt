@@ -1,0 +1,16 @@
+1) admin sets userlevels who can edit
+
+2) admin sets userlevels who can review
+
+3) permitted user edits, database custom table new edit row
+
+4) pre-edit version remain valid
+
+5) permitted user reviews
+-sees pre-edit and edit version changes
+-if accepts, edited version valid, database custom table row delete. event edit trigger
+-if rejects, pre-edit version valid, database custom table row delete
+
+6) show pending edits pages, accept reject button
+
+7) on q-list each pending edits question show button direct to pending edit page.

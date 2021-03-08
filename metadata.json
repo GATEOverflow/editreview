@@ -1,0 +1,10 @@
+{
+	"name": "Edit Review Gyzgyn",
+	"description": "Offers review option for edits.",
+	"version": "1.0",
+	"date": "2019-07-28",
+	"author": "Yhlas Sovbetov",
+	"author_uri": "https://gyzgyn.e-dostluk.com/agza/DrWaltBishop",
+	"min_q2a": "1.7.5",
+	"load_order": "after_db_init"
+}
